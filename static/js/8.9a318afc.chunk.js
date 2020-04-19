@@ -1,0 +1,2 @@
+(this.webpackJsonpproject2=this.webpackJsonpproject2||[]).push([[8],{302:function(a,t,e){"use strict";e.r(t);var n=e(0),r=e.n(n),s=e(65);t.default=function(){return r.a.createElement("div",null,r.a.createElement("h1",null," SINOV UCHUN MAYDON "),r.a.createElement("button",{onClick:function(){return s.put("https://social-network.samuraijs.com/api/1.0/profile/status",{status:"Bizdayam ishlarkan akramjon"},{withCredentials:!0,header:{"API-KEY":"538ca928-4aa3-433c-aa91-b6255ff42d95"}})}},"Tasdiqlash"))}}}]);
+//# sourceMappingURL=8.9a318afc.chunk.js.map

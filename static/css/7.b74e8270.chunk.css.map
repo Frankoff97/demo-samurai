@@ -1,0 +1,1 @@
+{"version":3,"sources":["formsControls.module.css"],"names":[],"mappings":"AAAA,sEACI,oBAEJ,CACA,2BACI,WAAY,CACZ,iBACJ","file":"7.b74e8270.chunk.css","sourcesContent":[".formControl.error textarea{\r\n    border: 3px solid red;\r\n    \r\n}\r\n.item{\r\n    width: 280px;\r\n    border-radius: 5px;\r\n}\r\n.error span{\r\n    \r\n}"]}
